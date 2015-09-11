@@ -1,5 +1,6 @@
 # DotsAndDashes
-by: Dasyel Willems (dasyelwillems@hotmail.com)
+by: Dasyel Willems (dasyelwillems@hotmail.com).  
+
 A simple android app to play the classic game Dots and Dashes.
 
 ### How to play
